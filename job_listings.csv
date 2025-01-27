@@ -1,0 +1,1136 @@
+0
+"About the job
+We are seeking an experienced Machine Learning Engineer to join our team and play a pivotal role in the development of our advanced Generative AI applications and systems. This dynamic role involves a variety of initiatives, including designing, building, and delivering ML applications leveraging AI technologies like LLMs and FMs. 
+ Key Responsibilities: 
+
+Develop, train, and fine-tune ML models, with a focus on LLMs, FMs, and RAG. 
+Lead the model development lifecycle from data collection and preprocessing to model evaluation and deployment. 
+Collaborate with business partners, engineers, analysts, and data scientists to translate business requirements into effective AI solutions. 
+Conduct experiments, including A/B testing, to enhance model accuracy and efficiency. 
+Deploy models to production, ensuring scalability and efficiency. 
+Optimize machine learning applications for performance and reliability. 
+Monitor and maintain models in production environments. 
+Stay updated on AI, ML, and GenAI advancements to drive innovation. 
+Provide data-driven insights and recommendations. 
+Mentor team members on AI/ML engineering best practices. 
+ Qualifications: 
+
+Bachelor’s or master’s degree in computer science, Engineering, Data Science, or a related field. 
+5+ years of full-time work experience in one or more relevant machine-learning roles. 
+Proven experience as a Machine Learning Engineer or in a similar role. 
+Experience with developing machine learning models at scale from inception to business impact 
+Strong expertise in machine learning frameworks (e.g., TensorFlow, PyTorch) and programming languages (e.g., Python, R). 
+Experience in working with large data sets, data processing, and data analytics. 
+Familiarity with cloud platforms, preferably AWS, and their machine learning services. 
+Strong problem-solving skills and ability to work in a fast-paced, team-oriented environment. 
+Excellent communication and collaboration skills. 
+Preferred Qualifications: 
+Experience delivering models through the MLOps life cycle from exploration to serving. 
+Familiarity with GenAI technology stack, including frameworks for prompt engineering, guardrails for GenAI applications, and LLM fine-tuning. 
+Experience working with VectorDBs and other data infrastructure required to efficiently support Generative AI training pipelines and production applications."
+"About the job
+Job Title: Machie Learning Engineer
+Salary: $140,000 - $170,000
+Location: Washington D.C (Hybrid/Remote)
+
+My client is an expanding start-up who are pioneering the future of space weather intelligence. Their platform leverages cutting-edge science and advanced machine learning to create fully integrated solutions which enhance resilience and mitigate risks from the space environment.
+
+They are currently seeking a talented Machine Learning Engineer to join their team and help develop ML models that turn complex data into actionable insights, driving the next generation of space-tech applications.
+
+Key Responsibilities:
+Design and deploy machine learning models to analyze and interpret physics-based data, especially in the areas of space weather, satellite telemetry, and atmospheric dynamics.
+Implement numerical modeling techniques to simulate physical systems, integrating these with ML approaches for enhanced predictive accuracy.
+Collaborate with cross-functional teams to understand project requirements and to translate complex, physics-based processes into ML solutions.
+Optimize model performance and scalability for deployment on cloud platforms (AWS).
+Implement data preprocessing, feature engineering, and data augmentation techniques to improve model accuracy.
+Build, maintain, and improve data pipelines, ensuring the seamless flow of data from ingestion to deployment.
+Monitor and evaluate model performance post-deployment, making updates as needed for continuous improvement.
+Ensure models adhere to security, privacy, and regulatory standards.
+
+Qualifications:
+Proven experience in developing and deploying machine learning models using Keras, TensorFlow, PyTorch, Jax, or similar modern frameworks.
+Experience building numerical and ML models of physics-based systems with exposure to large datasets or distributed systems.
+Strong background in data science, including experience with data preprocessing, feature engineering, and model evaluation.
+Proficiency in cloud platforms (AWS) for deploying and scaling machine learning models.
+Familiarity with containerization tools like Docker for model deployment.
+Solid understanding of statistical methods, algorithms, and performance metrics used in machine learning.
+Strong problem-solving and communication skills, and the ability to work collaboratively in a fast-paced environment.
+
+Preferred Qualifications:
+Background in physics, atmospheric science, aerospace, electrical engineering, or a related field
+Experience building Physics-Informed ML models (PINN, DeepOnet, FNO/AFNO) using frameworks such as DeepXDE or Modulus
+Knowledge of MLOps practices, including CI/CD for ML, model versioning, and automated monitoring. Experience putting ML models into production.
+Relevant certifications in cloud platforms or machine learning frameworks.
+Experience with real-time data processing (Spark, Flink, Dataflow, Kafka, Pulsar, etc.)
+Experience debugging and maintaining live production systems on Kubernetes."
+"About the job
+Location: Hybrid (Sunnyvale)
+Duration: 12+ W2 Contract (C2C not available)
+Payrate: $55 - $62/hr
+Job Overview:
+The Machine Learning Engineer will design, develop, and deploy AI/ML applications at scale. The role involves creating robust systems, building data pipelines, and working with cross-functional teams to integrate AI solutions into products. You will be responsible for developing APIs, optimizing performance, and ensuring smooth deployment of machine learning models.
+Key Responsibilities:
+Design, develop, and deploy AI/ML applications end-to-end
+Build scalable data pipelines and infrastructure for AI/ML operations
+Collaborate with teams to integrate AI/ML solutions into products
+Develop APIs for communication between ML models and other systems
+Optimize AI/ML performance through testing and tuning
+Ensure seamless deployment of models using CI/CD pipelines
+Required Skills & Experience:
+1+ years of experience in building AI/ML applications
+Strong system design skills for scalable AI/ML systems
+Proficiency in Python, C++, Java, or similar languages
+Experience with machine learning frameworks (TensorFlow, PyTorch)
+Knowledge of DevOps and CI/CD practices
+Experience with distributed systems and cloud platforms (AWS, GCP, Azure)
+Familiarity with MLOps tools and workflows
+Education:
+Bachelor’s degree in Computer Science, Engineering, or related field (Master’s or PhD preferred)
+Preferred Skills:
+Familiarity with Generative AI and chatbot development
+Contributions to open-source ML projects
+Experience with RAG techniques or similar"
+"About the job
+Cadent powers the evolution of TV brand advertising. We provide marketers, agencies, operators, and media owners with data-driven solutions for buying and selling TV advertising. By connecting brands with opportunities across national inventory sources—cable, broadcast, and digital media—our technology improves efficiencies and boosts the results of linear, addressable, and cross-screen campaigns.
+ As we continue to grow, we’re looking for a ML Engineer Intern to join our Machine Learning Engineering team for Spring 2025. The Intern will have an opportunity to gain hands-on experience by working directly with our teams, not for them.
+ The Intern will also spend the spring on an individual project customized to their specific skill set which they’ll present to our Tech Leadership team at the end of the program. Details of the projects and timeline will be laid out by supervisors at the beginning of the program.
+
+Use Python, SQL, Shell scripting, and Cloud technologies and other department-specific software to complete day-to-day R&D assignments. *Python experience is required*
+Collaborate effectively with other members of the engineering research team and broader data services group including but not limited to Data Scientists, Data Engineers, Analytics Engineers, Performance Engineers, Software Engineers and Business Intelligence Analysts
+Conduct research and present findings to the MLE team and business stakeholders
+Collaborate with the team in Agile Sprint Planning, demos, seminars, and other team meetings.
+Perks:
+Competitive pay
+College credit (if applicable)
+A senior pursuing a Master’s degree at a college or university majoring in a field closely related to the department they are interning preferably computer science or related field
+Able to commit to a part-time (20 hours per week) work schedule between February 25, 2025 – May 2, 2024.
+Proficient in Python SQL, and Shell scripting, with some knowledge Docker containerization and Cloud data processing technologies
+Background in software engineering and knowledge of statistical concepts
+Excellent verbal and written communicators
+Self-motivated with a desire to learn from a rapidly growing company
+Confident to take initiative and collaborate with teammates
+
+So, if the leading edge of media technology is the place you want to be, please contact us today and let’s start the conversation!
+ Cadent is an Equal Opportunity Employer and is committed to supporting all its employees when it comes to Inclusion & Diversity. Cadent’s policy is to provide equal opportunity for applicants & employees without regard to race, color, religion, creed, gender, gender identity or expression, sexual identity or orientation, age, national origin or ancestry, citizenship, disability or medical condition (including pregnancy, childbirth, or related medical condition), sexual and reproductive health decisions, genetic information, marital status (including domestic partnerships and civil unions), pregnancy, culture ancestry, familial or caregiver status, military status, veteran status, socioeconomic status, unemployment status, status as a victim of domestic violence, or any other basis prohibited by law. Cadent will not discriminate against the basis of disability. This commitment is honored when it comes to decisions on hiring, recruiting, training, promotions, compensations, benefits, transfers, and terminations.
+ Cadent is seeking to actively engage with our employees from a wide variety of cultures and to connect with our clients differently. Our workforce has generational diversity that supports greater innovation when we maximize representation of all diversity. Our active employee resource groups promote engagement across all groups of individuals that are represented within the company and externally."
+"About the job
+Role Description:
+
+We are seeking a Machine Learning Engineer with approximately 5 years of experience in the field. The ideal candidate will have a strong foundation in low-level machine learning skills, data science, and advanced AI techniques. You will be working with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and other state-of-the-art toolchains. Additionally, familiarity with cloud operations will be beneficial. If you are passionate about pushing the boundaries of AI and enjoy working on complex challenges, we want to hear from you!
+
+Key Responsibilities:
+
+Model Development: Design, implement, and optimize machine learning models and algorithms, focusing on low-level techniques and cutting-edge AI methodologies.
+
+Data Handling: Develop and maintain data pipelines, perform exploratory data analysis, and apply data preprocessing techniques to ensure high-quality input for machine learning models. LLM & RAG Implementation: Leverage and fine-tune Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) systems to create innovative solutions and enhance model performance.
+
+Toolchain Expertise: Utilize and integrate modern toolchains and frameworks (e.g., TensorFlow, PyTorch, Hugging Face) to build and deploy machine learning models.
+
+Cloud Operations: Manage and optimize machine learning workflows in cloud environments (e.g., AWS, Google Cloud, Azure), ensuring scalability and efficiency.
+
+Collaboration: Work closely with cross-functional teams, including data scientists, software engineers, and product managers, to align on project goals and deliver high-impact solutions.
+
+Continuous Learning: Stay current with the latest advancements in AI and machine learning, and actively contribute to the knowledge base of the team.
+
+Qualifications:
+
+Experience: Approximately 5 years of professional experience in machine learning and AI engineering.
+
+Technical Skills: Proficiency in Python and relevant libraries (e.g., NumPy, pandas, scikit-learn). Strong understanding of machine learning algorithms, statistical analysis, and model evaluation techniques.
+
+LLMs & RAG: Hands-on experience with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) technologies, including fine-tuning and deployment.
+
+Data Science Foundations: Solid background in data science principles, including data preprocessing, feature engineering, and model selection.
+
+Cloud Operations: Experience with cloud platforms (AWS, Google Cloud, Azure) and knowledge of cloud-based machine learning services and deployment strategies.
+
+Toolchain Knowledge: Familiarity with machine learning frameworks and tools (e.g., TensorFlow, PyTorch, Hugging Face Transformers) and version control systems (e.g., Git).
+
+Problem-Solving: Strong analytical and problem-solving skills, with the ability to tackle complex challenges and derive actionable insights.
+
+Communication: Excellent communication skills, with the ability to present technical concepts clearly and effectively to non-technical stakeholders.
+
+Preferred Qualifications:
+
+Advanced Degrees: Master’s or PhD in Computer Science, Data Science, Artificial Intelligence, or a related field.
+
+Research Experience: Experience in conducting and publishing research in the field of machine learning or AI.
+
+Certifications: Relevant certifications in cloud platforms or machine learning.
+
+Benefits:
+
+Competitive salary
+Equity in line with company stage and role
+Comprehensive health, dental, and vision insurance
+Generous PTO and flexible work arrangements
+Opportunities for professional growth and development
+Collaborative and inclusive work environment with a passionate and talented team"
+"About the job
+Data Scientist, GenAI
+3 + month contract
+Hybrid - 2-3 days a week in Century City CA
+
+ W2 ONLY - NO 3RD PARTIES PLEASE. NO 3RD PARTY REFERRALS OFFERED.
+
+We have an immediate need for a Data Scientist candidate with Gen AI hands-on experience.
+Hands-on experience with Generative AI models, including fine-tuning, deployment, and evaluation
+Experience working with databricks, workflows for ETL, analytics, and machine learning pipelines
+Proficiency in using Python for advanced predictive modeling and visualization
+
+W2 ONLY - NO 3RD PARTIES PLEASE. NO 3RD PARTY REFERRALS OFFERED.
+
+Feliza LaClare
+iSpace, Inc., El Segundo CA
+Office: (310) 563-3815
+feliza.laclare@ispace.com
+www.ispace.com
+www.linkedin.com/in/feliza-laclare-a03821240/"
+"About the job
+AI Data Scientist
+
+About the Role 
+Successful candidate will be a team-oriented Data/Software Engineer with a strong understanding of the end-to end process of delivering software using Agile/DevOps methodologies and have expertise in more than one of the technologies listed below.
+Successful candidate will implement data products with a focus on collecting, parsing, managing, and analyzing large sets of data to turn information into insights using multiple platforms.
+Successful candidate will ensure that data pipelines are scalable, repeatable, and secure -- as well as able to serve multiple users.
+Along with team members, candidate will participate in the design, development and implementation of large-scale technology solutions aligned to the mission of the organization, including payment systems, data analysis and visualization, supervision of financial institutions, informing and educating the public, and others.
+
+Key Activities
+Collects, cleanses, analyzes, and validates data prior to it being stored in application databases for final use by the organization and/or its clients. Constructs and applies standard statistical analysis and/or models to verify data acceptability/accuracy.
+Configures, operates, and develops manual and/or automated methods, processes, and procedures to test output or input based on data compliance, quality and use requirements as established by product management, client specifications, and governance programs.
+Ensures data integrity by implementing quality assurance practices. Plans, designs, develops, and performs quality assessments on data elements and structures to document and evaluate integrity, completeness, quality, and appropriateness of formats, records, and structures. Gathers and enters missing data and resolves any anomalies.
+Performs regular and ad hoc reviews, audits, and investigations of data activity and integrity; prepares reports and summaries of findings.
+Produces, updates and implements guidelines and documentation of policies, processes, procedures, and standards.
+Identifies areas of improvement in data collection processes or systems and make recommendations to correct any deficiencies.
+Works on Extract, Transform, and Load (ETL) processes/projects, individually or as part of or in conjunction with a database/data warehouse team.
+Partners with customers in the development of innovative solutions that achieve business goals.
+Reviews and analyzes business and technical requirements and implements technical solutions to meet those requirements.
+
+Required Qualifications
+Typically requires at least 3-15 years of relevant experience, depending on the level.
+Bachelor’s degree specializing in STEM (Science, Technology, Engineering, Mathematics), or a closely related field, from an accredited college or university, or equivalent combination of directly related education and/or experience.
+Recent accomplishments in developing and analyzing complex SQL on a variety of relational databases (PostgreSQL, MySQL) for data querying and manipulation.
+Advanced data analytics experience for designing, developing, and maintaining the Tableau dashboards and reports that align with business requirements.
+Experience using core AWS services to build and support data warehouse solutions leveraging AWS architecture best practices.
+Proven ability to use GitLab for creating a project, cloning a repository, creating a branch, staging, committing and pushing changes.
+Knowledge of AWS Cloud deployments and processes.
+
+Preferred Qualifications 
+Senior understanding of subject. Has in-depth and/or breadth of knowledge in discipline.
+Performs work independently with limited supervision and direction. Serves as a resource for less experienced staff."
+"About the job
+Our client is a well-established organization known for its commitment to providing consistent services and competitive rates in their industry. They focus on offering a seamless experience, with a presence in key locations and a dedication to meeting the needs of their diverse clientele.They are looking for a Data Scientist who will help shape the future of our business through predictive modeling, machine learning, and deep analytical insights. This is a hybrid position based in Fairfield County, CT.
+
+Data Scientist’s Responsibilities and Duties
+Develop, test, and implement predictive models and algorithms using statistical, machine learning, and data mining techniques.
+Collect, clean, and preprocess large datasets from various sources, ensuring data integrity and readiness for analysis.
+Analyze trends, patterns, and outliers in data to identify business opportunities and actionable insights for stakeholders.
+Work cross-functionally with product managers, engineers, and other departments to understand business needs and deliver effective data-driven solutions.
+
+Data Scientist’s Qualifications and Skills
+Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, Mathematics, or a related field.
+At least 2 years of experience in a data science or related analytical role.
+Proficiency in Python or R for data analysis and modeling.
+Strong SQL skills to query large datasets.
+
+RightClick is an equal opportunity employer who agrees not to discriminate against any employee or job applicant irrespective of race, color, creed, alienage, religion, sex, national origin, age, disability, gender (including gender identity), marital status, sexual orientation, citizenship or any other characteristic protected by law."
+"About the job
+Position Description:
+To create and refine real-time analytic models used to understand conversations and behaviors in order to target users with optimal messaging across different platforms and devices and to Participate in all project phases from concept, requirements, development, test and production support.
+ Responsibilities:
+Complex Problem Solving - Ability to identify and solve problems by reviewing related information, evaluating options and implementing solutions
+Critical Thinking - Ability to use logic and reason to identify strengths and weaknesses of alternative solutions, conclusions, or approaches to problems
+Deductive Reasoning – Ability to apply general rules to specific problems to produce answers that make sense
+Inductive Reasoning – Ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated information or events)
+Quantitative and Analytical Skills - Ability to apply quantitative and statistical analysis techniques to unstructured problems
+Strong Communication Skills – Ability to clearly and concisely communicate information and ideas orally and in writing
+
+Skills and Experience:
+Experience with SAS or R
+3-5 years of experience working in a data analytics capacity
+Well versed in the application of analytic techniques and predictive modeling
+Practical ability to visualize data, communicate about the data, and utilize it effectively
+Innovative instincts and an entrepreneurial spirit"
+"About the job
+Title: Data Scientist, Gen AI (LLM experience required) 
+Mid-Senior Level 
+Location: Remote or Nashville, TN
+
+Why Asurion 
+At Asurion, we provide over 290 million consumers around the world with simple, intuitive technology advice to help them get the most from their devices; support to fix their issues and connectivity crisis, and device protection to ensure they receive a replacement or repair. We deliver easy, instant access to a community of tech experts, to solve any technology issue you could ever have with almost any device you’ll ever own. Our AI team is heavily focused on empowering our agents in providing best in class service but also building generative AI solutions to increase our reach and cover many more channels.
+
+About the team:
+We believe in giving our best and brightest the autonomy to define their solutions. Our technology teams work in the Journey Team model, which allows us to move quickly and continuously deploy new features, giving data scientists & researchers freedom to cover all areas of the development process from ideation, research, experimentation, and scaling of new products and services. As a member of our team, you will not just observe, but be an active participant in knowledge sharing sessions, brainstorming as well as daily standups & team outings. We are looking for an individual who is curious, humble and eager to learn – which is the way we all approach the work we do.
+
+What you’ll be doing: 
+● Ability to drive a key business area and prioritize corresponding efforts strategically
+● Deliver end-to-end reliable and scalable AI features in production
+● Provide Data Science updates to senior executive audience
+● Work with stakeholders to identify new Machine Learning/AI opportunities
+● Provide mentorship and guidance to other fellow data scientists
+● Define platform and operation improvement opportunities, formulate data science problems
+● Develop prototypes for new data product ideas and build data pipelines/flask apps for deployment
+● Experiment with latest generative LLMs to build next generative applications and boost existing ones
+● Design and iterate on genAI prompts based on performance metrics and user feedback to ensure high-quality outputs and enhance overall system performance
+● Leverage deep understanding of modern machine learning techniques and their mathematical underpinning to regularly invent new and novel approaches to solve problems
+● Take Asurion’s automation and bot capabilities on digital customer service channels to the next level, working within a highly focused and multi-disciplinary team.
+● Follow cutting-edge NLP research and leverage open-source frameworks to develop self learning models, in a full automation or backed by human agents.
+● Utilize our humans in the loop to continuously train and improve the responses offered to customer inquiries
+● Build scalable solution configurable through no code interface
+● Drive a Minimum Viable Product (MVP) test-and-learn approach and push to learn fast. Work in an iterative manner from framing problems, to building prototypes, to deploying end-to-end and reliable production-grade solutions
+● Help defining and monitoring the right Key Performance Indicators (KPIs) to track and deliver on critical objectives and key results
+
+What you'll bring to the team: 
+● Your technical excellence, specifically in latest Large Language Models
+● Your drive to keep up with the ever changing AI landscape and release of new LLMs
+● The ability to root cause, define, and solve complex problems in ambiguous situations. Innate curiosity and product mindset helping you articulate new ideas as well as novel technical approaches
+● Self-driven and able to ask and tackle the most important analytical questions with a view on driving product impact
+● Ability to work and collaborate with different functions of the organization, from operation teammates, to product managers and engineers
+● Excellent communication (written and oral) and presentation skills, including creating and sharing complex ideas to peers. Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner
+● You’re a result-driven thinker and doer. You offer out-of-the-box ideas and aren’t afraid to roll up your sleeves to get the job done
+● Respect for all people, an open mind, and an open heart. We pride ourselves on building inclusive environments. After all, it’s the diversity of thought that builds great products!
+● Your experience in tweaking genAI prompts to enforce expected behavior
+
+Experience and education:
+● Requires a master’s degree in analytics, computer science, electrical engineering, computer engineering, or related advanced analytical & optimization fields, plus 2 years of related experience in current or previous company
+● Prior experience in mentoring and coaching data scientists
+● Solid experience implementing and fine tuning generative AI large foundation models models (LLMs), with a strong understanding of NLP techniques and frameworks such as embeddings, GPT, or Transformer models
+●Knowledge of cloud computing and AI deployment (AWS, Google Cloud)
+●Solid Knowledge in Deep Learning and/or Machine Learning gained through academic coursework or any amount of internship/work experience.
+●Knowledge in Statistics, optimization theoretical concepts and/or optimization problem formulation gained through academic coursework or any amount of internship/work experience
+●Solid knowledge in Python programming gained through academic coursework or any amount of internship/work experience."
+"About the job
+Direct Agents is looking for a talented and enthusiastic Computer Science Intern to join our AI & Innovation team.
+
+This role in our NYC office, by Madison Square Park, is 20 hours a week and pays $20-$25 per hour, depending on experience.
+
+You'll help develop and implement cutting-edge AI solutions that enhance our digital marketing capabilities while working alongside experienced professionals in a dynamic agency environment.
+
+Key Responsibilities
+
+ Contribute to the development of our unified AI query platform, a comprehensive insights tool
+ Help integrate and optimize AI solutions like Otter.AI, NotebookLM, and custom GPTs into our workflow
+ Support the development of automated reporting systems and data visualization tools
+ Assist in developing and maintaining AI-powered tools for creative optimization and production
+ Collaborate with our data science team on:
+ Building and optimizing machine learning models
+ Developing natural language processing capabilities
+ Creating automated quality assurance systems
+ Participate in code reviews and technical discussions
+ Document technical processes and maintain codebase
+ Help evaluate and integrate new AI tools and technologies as they emerge
+
+Your Background
+
+Required Qualifications
+
+ Currently pursuing a Bachelor's or Master's degree in Computer Science, Software Engineering, or related field
+ Strong programming skills in Python or JavaScript
+ Experience with machine learning frameworks
+ Knowledge of web development technologies (React preferred)
+ Familiarity with data structures and algorithms
+ Strong analytical and problem-solving skills
+ Excellent communication and collaboration abilities
+
+Preferred Qualifications
+
+ Experience with natural language processing (NLP) or large language models (LLMs)
+ Familiarity with marketing analytics or advertising technology
+ Knowledge of data visualization libraries
+ Experience with version control systems (Git)
+ Understanding of RESTful APIs
+ Previous internship or project experience in AI/ML
+
+WHY DIRECT AGENTS
+
+Innovation & Growth
+
+AI-Driven Innovation: Harness AI-powered workflows to optimize strategies and drive impactful results
+Future-Forward Tech: Access proprietary tools like Kanopy AI and custom GPTs for advanced marketing solutions
+Career Development: Shape your path through mentorship, training programs, and direct access to leadership
+Industry Impact: Contribute to thought leadership and strategic initiatives that drive agency innovation
+
+Outstanding Environment
+
+Work with premier brands like Marvel, NBA, and NYSE while maintaining boutique agency creativity
+Direct Agents is proud to be an equal opportunity employer. Join us in shaping the future of digital marketing!"
+"About the job
+UII America, Inc., a subsidiary company of Shanghai United Imaging Intelligence Healthcare Co. Ltd. (UII), is building an organization of highly-motivated, talented and skillful AI experts and software developers to strengthen our R&D power and address the need of our innovative products in the USA market. United Imaging Intelligence (UII) is committed to providing AI solutions for medical devices, imaging, and diagnosis – to helping clients better understand and embrace AI. United Imaging Intelligence is led by two world-renown leaders in the AI industry. Together, they will lead UII in focusing on “empowerment” and “win-win.” UII empowers doctors and equipment in order for doctors and hospitals to win, for research institutions to win, and for third-party companies to win. UII America, Inc. is building a world-class research and development team in Boston, MA.
+
+We have immediate openings for Computer Vision and Robotics Research Interns with the following qualification requirements:
+· Ph.D./M.S student in Computer Science, Electrical Engineering, Robotics, Data Science, Biomedical Engineering, Statistics, Applied Mathematics, or other related fields;
+· Self-motivated and demonstrated problem solving and critical thinking skills;
+· Familiar with at least one mainstream deep learning toolkit, e.g., Pytorch, Tensorflow;
+· Familiar with Python, C++ and OpenCV;
+· Proven track record of publications in the top computer vision, machine learning and robotics venues such as CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ICRA, IROS, RSS, TPAMI, IJCV, T-RO, and IJRR is a plus;
+· Experience with 6D pose estimation, 3D visual perception, video understanding, efficient neural reconstruction, and embodied AI is a plus;
+· Excellent communication skills and team-work spirit.
+
+Main Responsibilities
+· Conduct top-tier research in the area of Computer Vision and Robotics in a collaborative team-working environment;
+· Working closely with full-time employees to come up with, implement, and verify research ideas;
+· Fast prototyping, and developing cutting edge AI assets for the company;
+· Contribute to intellectual properties, strong publications and transferring technologies into practical product solutions;
+· Be ambitious to change future Healthcare with innovations."
+"About the job
+Overview
+
+Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+
+Our powerful, award-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions. Diversity, equity & inclusion are integral parts of our culture and drivers of innovation at Keysight. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+
+Responsibilities
+
+Responsibilities
+
+Develop, test, and optimize object detection frameworks such as DETR, YOLO, Vision Transformers (ViT), and Faster-RCNN for classification tasks.
+Implement and enhance state-of-the-art computer vision techniques.
+Write high-performance code in C++, Python, and CUDA for model development and deployment.
+Work with frameworks such as PyTorch, TensorFlow, Keras, and ONNX for training and deploying models.
+Utilize MLOps tools and techniques to streamline the model development lifecycle.
+Analyze and preprocess data for effective classification.
+Collaborate with a multidisciplinary team to achieve project objectivaes.
+
+Qualifications
+
+Careers Privacy Statement
+
+***Keysight is an Equal Opportunity Employer.***
+
+Keysight Technologies Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other protected categories under all applicable laws.
+
+Qualifications
+
+Pursuing a Ph.D. in Computer Science, Electrical Engineering, Applied Mathematics, or related fields (Master’s students with extensive project or work experience will also be considered).
+Strong background in object detection and computer vision frameworks (DETR, YOLO, ViT, Faster-RCNN).
+Proficiency in programming languages including C++, Python, and CUDA.
+Experience with data analysis and prototyping.
+Hands-on experience with deep learning frameworks like PyTorch, TensorFlow, Keras, and ONNX.
+Familiarity with MLOps practices and tools for model deployment and monitoring.
+Solid understanding of computer vision techniques and principles.
+Strong problem-solving skills and ability to work in a collaborative team environment.
+Excellent communication skills to present technical concepts effectively."
+"About the job
+Are you eager to apply your knowledge and grow your skills this summer? Do you want to collaborate with researchers, scientists, and engineers to tackle real-world challenges? If so, a summer internship at STR offers the perfect opportunity for you!
+
+At STR, we value the contributions of our interns and view them as vital to our success. Our internship program provides hands-on experience, mentorship from experienced professionals, and the chance to work on impactful projects related to national security. Whether you're interested in Cyber, Analytics, Sensors, or Systems Development, our diverse divisions offer dynamic environments to enhance your expertise.
+
+What you’ll get a chance to do at STR:
+
+Collaborate within project teams with mentorship from experienced staff. 
+Contribute to various project phases including problem design, solution discovery, prototype development, experimentation, and system implementation. 
+Support technical tasks related to your division’s focus, from algorithm development to hardware integration. 
+
+Internship Divisions: 
+
+Analytics:
+Support projects related to object detection, autonomous vehicles, media manipulation, and decision support. 
+Engage in all project phases from problem design to prototype development and data analysis. 
+Work with cutting-edge technologies in computer vision, machine learning, and big data processing. 
+Cyber:
+Work on cyber security related problems, cyber vulnerability research, software system design, machine learning, and more. 
+Collaborate with technical experts on problem design, prototype development, experimentation, and technical presentations. 
+Projects may involve signal processing, image/video processing, and software development. 
+Sensors:
+Focus on advanced sensor systems including radar, electronic warfare, underwater acoustics, and hyperspectral imaging. 
+Participate in full system prototypes, experiment campaigns, and technology development. 
+Contribute to projects involving RF hardware, signal processing, and real-time embedded systems. 
+Systems Development:
+Work on multifunction radar systems, ground command/control systems, and electronic warfare. 
+Engage in model-based simulation, technology component development, and full system prototyping. 
+Involvement in RF systems, signal processing software, and real-time embedded systems. 
+Requirements:
+
+Enrollment in a BS degree program in electrical engineering, computer science, physics, mathematics, or related technical discipline. 
+Strong academic record and a keen interest in research. 
+Relevant experience or coursework in areas such as signal processing, computer vision, reinforcement learning, machine learning, reverse engineering, software development, RF hardware, scientific computing (e.g., MATLAB, Python), statistics or other relevant coursework. 
+
+Perks:
+
+Competitive pay
+Housing stipend
+Flexibility/work-life balance
+Vibrant community with fun summer activities inside and outside the office
+Intern seminars and tech talks
+
+Join us for a summer of meaningful work and professional growth. Apply now and make a difference with STR!
+
+STR is a growing technology company with locations near Boston, MA, Arlington, VA, near Dayton, OH, Melbourne, FL, and Carlsbad, CA. We specialize in advanced research and development for defense, intelligence, and national security in: cyber; next generation sensors, radar, sonar, communications, and electronic warfare; and artificial intelligence algorithms and analytics to make sense of the complexity that is exploding around us.
+
+STR is committed to creating a collaborative learning environment that supports deep technical understanding and recognizes the contributions and achievements of all team members. Our work is challenging, and we go home at night knowing that we pushed the envelope of technology and made the world safer.
+
+STR is not just any company. Our people, culture, and attitude along with their unique set of skills, experiences, and perspectives put us on a trajectory to change the world. We can't do it alone, though - we need fellow trailblazers. If you are one, join our team and help to keep our society safe! Visit us at www.str.us for more info.
+
+STR is an equal opportunity employer. We are fully dedicated to hiring the most qualified candidate regardless of race, color, religion, sex (including gender identity, sexual orientation and pregnancy), marital status, national origin, age, veteran status, disability, genetic information or any other characteristic protected by federal, state or local laws.
+
+If you need a reasonable accommodation for any portion of the employment process, email us at appassist@str.us and provide your contact info.
+
+Pursuant to applicable federal law and regulations, positions at STR require employees to obtain national security clearances and satisfy the requirements for compliance with export control and other applicable laws."
+"About the job
+Job Title: Computer Vision Engineer 
+Location: REMOTE
+Duration: 12 months
+
+Must-Have Skills: 
+Experience developing machine learning and computer vision algorithms
+C++ and Python Skills are required and being able to write quality code
+3+ years experience within in programming, simulation, and modeling experience with languages such as C/C++, Python
+Strong Linux experience
+Python, PyTorch, and video Processing are required
+Development and deployment of machine learning training platforms experience
+Familiarity with shell script
+Experience with algorithm development
+Experience with object-oriented programming in C# and C++ or other languages
+Experience with machine learning toolkits and platforms
+
+Nice-to-Have Skills: 
+Experience in UI design and development for big data visualization
+
+Educational Requirements:
+Bachelor’s degree in computer science, mathematics, or related field preferred
+Masters or Ph.D."
+"About the job
+Are you someone who thrives on turning complex data into actionable insights, excels in creating dashboards and visualizations using tools like Power BI or Salesforce, and enjoys collaborating with cross-functional teams to drive business success? If so, we want to hear from you!
+
+The Location: Taconic Biosciences is seeking a Data Analyst - Sales to join our dedicated Customer Experience team in a hybrid capacity. This role is primarily remote (90%) with occasional on-site requirements at our U.S. locations. Qualified candidates must reside within a three-hour driving distance of our Rensselaer, NY site.
+
+The Pay Range: $63,000 - $67,000. Exact compensation may vary based on several factors. These factors include geographic location, experience, training, education, and local market conditions and could exceed the advertised salary range, however, please note that the upper end of the range is not guaranteed to be offered.
+
+What we offer:
+
+Insurance within 30 days or less which includes options for medical, dental, vision, pet insurance and more!
+20 days paid time off plus 6 additional holidays and 1 floating holiday
+Annual Bonus Program
+Work life balance
+401(k) plan with up to 4% employer match
+Tuition reimbursement
+Career advancement opportunities
+Commitment to training and providing you with the skills you need for success
+All employees receive access to 24/7 telemedicine (including mental health), short- and long-term disability and life insurance
+
+If you are looking for a rewarding career and the opportunity to grow, apply today!
+
+The Role:
+
+Taconic Biosciences is seeking a Data Analyst - Sales to play a pivotal role in empowering our customer-facing team with actionable insights. By leveraging intelligence from existing datasets, you will provide data-driven recommendations that shape strategic decisions and drive operational excellence.
+
+In this role, you will collaborate closely with cross-functional teams to design, develop, and implement Business Intelligence (BI) solutions that support critical business processes and enhance organizational efficiency. Key responsibilities include creating dashboards, reports, and visualizations that communicate key performance indicators (KPIs) and business trends, as well as conducting in-depth data analysis to uncover insights that foster company growth and success.
+
+Additionally, you will oversee sales pipeline metrics, maintain revenue reporting, manage the sales commission process, and act as a data steward for Salesforce, ensuring data accuracy and integrity through regular audits. Your work will directly impact the success of our commercial organization by supporting strategic initiatives, responding to ad hoc analysis requests, and ensuring compliance within our CRM system. This role is an excellent opportunity for a detail-oriented, data-savvy professional passionate about turning complex datasets into actionable business intelligence.
+
+Core Responsibilities:
+
+Collaborate with internal stakeholders to understand business requirements and identify opportunities for data-driven insights and improvements
+Collect, clean, and transform complex datasets from various sources, ensuring data accuracy and integrity. 
+Develop and maintain dashboards, reports, and visualizations that communicate key performance indicators (KPIs), business trends, and actionable insights to stakeholders using tools such as Salesforce, Power BI, or Excel. 
+Perform in-depth data analysis to uncover patterns, trends, and correlations that drive strategic decision-making and operational enhancements. 
+Interpret and present findings to both technical and non-technical audiences, effectively conveying complex insights in a clear and concise manner. 
+Stay up to date with industry best practices and emerging trends in data analysis and contribute innovative ideas to the team. 
+Participate in cross-functional projects and contribute to the development of data-driven strategies across the organization. 
+Responsible for compiling, analyzing, and interpreting sales pipeline metrics. 
+Maintain revenue reporting for the customer-facing organization. 
+Partner with finance to manage the sales commission process and tools. 
+Prepare accurate reports using data from internal and external sources for the customer-facing team and executives. 
+Create custom spend reports, price lists, or discount letters for clients. 
+Conduct timely execution and management of special customer pricing in Salesforce or ERP. 
+Act as the data steward for all salesforce data by performing regular audits and data monitoring. 
+Track compliance of Commercial team within CRM system. 
+Responsible for special projects that support the strategic initiatives of the commercial organization. 
+Effectively responds to requests for ad hoc analyses. 
+
+Education and Experience:
+
+Bachelor’s degree (B.A.) in Data Analytics, Business Administration, Information Systems, Statistics, or a related field. 
+Advanced coursework or certifications in data analysis, business intelligence tools (e.g., Power BI, Tableau), or Salesforce is a plus. 
+Up to 2 years of relevant experience in data analysis, business intelligence, or sales operations. 
+Proven ability to collect, clean, and analyze large datasets from multiple sources. 
+Hands-on experience creating dashboards and reports using tools like Power BI, Tableau, or Salesforce. 
+Demonstrated ability to interpret and present complex data insights to both technical and non-technical audiences. 
+Experience managing and ensuring data quality in CRM systems such as Salesforce. 
+Track record of supporting business decision-making through data-driven recommendations. 
+Familiarity with sales metrics, pipeline analysis, and revenue reporting. 
+
+Travel:
+
+Occasional travel is required, generally 2-5 trips per year.
+
+Physical Demands
+
+The work is sedentary. Typically, the employee may sit comfortably to do the work, with some walking; standing; bending; carrying of items such as papers, books, small parts; driving an automobile; etc. No special physical demands are required to perform the work.
+
+Allergen Disclosure:
+
+Due to the nature of the work performed at Taconic, employees may be exposed to allergens in the workplace, even if their positions do not involve the direct handling of animals or animal bedding. While individuals with preexisting allergies and/or asthma may be particularly sensitive to these exposures, anyone can experience a reaction.
+
+About Us:
+
+With a history of over 65 years of excellence, Taconic Biosciences is a global team of the best problem solvers in the industry. We partner with our clients to develop winning research strategies that accelerate the discoveries for prevention and treatment of disease.
+
+Taconic employees all over the world show up every day to deliver the best solutions for our clients while caring for ourselves, each other, and especially our animals. If you are a respectful, compassionate individual with a can-do attitude and a desire to do the right thing, we want you to join us!
+
+Better Together at Taconic
+
+Inclusion, Diversity, Awareness & Action. Taconic Biosciences is taking an active and intentional role in creating a company culture that encourages and appreciates the uniqueness in all people. Being you is what allows you to bring your best self to work. We are committed to ensuring that Taconic is a safe and fair workplace for everyone because it’s our differences that make us stronger. We are better together.
+
+Taconic Biosciences is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, citizenship, disability, or protected veteran status."
+"About the job
+Research Analyst Intern- Data Analytics
+
+Bainbridge 
+
+Job Type:Internship/ 20-40 hours per week, flexible/ 90-day minimum commitment
+Compensation: $22.00- $25.00 per hour
+Position Location:Remote digital office (work from home), must be U.S.-based
+How to Apply: Interested candidates should submit a PDF version of resume and a brief letter of interest
+
+Company Overview: 
+Bainbridge is a MIT-founded, Forbes-rated corporate development and professional services finance firm serving the world's top private equity funds andFortune 1000 M&A departments. We have completed over $5 billion in small to large-cap acquisitions for PE funds and major corporations in all market sectors including: technology, healthcare, consumer goods, aerospace and defense, global supply chain, machine learning and energy. Bainbridge is currently experiencing exciting growth in the Investment Banking and Fintech areas. Please apply if you are seeking to be in one of the most sought-after markets in private equity that is redefining the financial services landscape.
+
+Responsibilities:
+Conduct comprehensive secondary research using various databases, online sources, and industry reports.
+Utilize data scraping techniques to gather and analyze large volumes of data.
+Analyze complex datasets using statistical tools and software (e.g., Python, SQL).
+Assist in development of specific industries to inform data-driven strategies.
+Collaborate with teams across the company, integrating data insights into business processes.
+Stay updated on technological advancements in data analytics and industry-specific trends. 
+Assist with preparation of detailed reports to stakeholders, emphasizing strategic insights and industry expertise.
+Qualifications:
+Currently enrolled or recent graduate of accredited college/ university program in Business, Information Systems or a related field. 
+Demonstrated experience in data analytics, data mining, and secondary research.
+Proficiency with MS Suite (Excel, PPT etc.) 
+Strong analytical and problem-solving skills, with the ability to handle complex datasets.
+Excellent communication and presentation skills, with a knack for translating data into actionable insights.
+Professional demeanor and enjoys working on teams.
+Willingness to learn."
+"About the job
+About Us
+
+Do you want to work with a team that is changing science and enabling the next generation of genetic medicines?
+
+The stellar growth in cell and gene therapy has accelerated the need for a better quality, faster and more robust DNA manufacturing technology.
+
+Touchlight has created a new DNA vector for use in advanced genetic medicines that is safer and more efficacious than conventional plasmid DNA. Our unique platform also enables DNA production at unprecedented scale, speed and purity.
+
+We believe that DNA is fundamental to the future of medicine and our CDMO has a focus on the following areas:
+Nucleic acid medicines (mRNA and DNA).
+Ex-vivo and in-vivo cell and genetic medicines.
+Gene therapy using viral vectors and gene editing.
+Autologous and allogenic cell therapy.
+
+Role Overview
+
+Due to the expansion of Touchlight’s business and the Commercial team, we are recruiting a new CRM Data Analyst to manage and optimize Touchlight’s CRM systems, providing actionable insights through data analysis to support marketing, sales, and business operations.
+
+This role focuses on leveraging Salesforce, HubSpot, and other analytical tools to improve data-driven decision-making, enhance customer relationship management, and drive operational efficiency.
+
+
+1. CRM Management & Optimization
+
+Maintain and manage Salesforce and HubSpot systems to ensure data accuracy, integrity, and accessibility.
+Configure and optimize workflows, automations, and dashboards to support business needs.
+Troubleshoot and resolve CRM-related issues while ensuring seamless integration with other tools and platforms.
+
+2. Data Analysis & Reporting
+
+Analyze large datasets from Salesforce, HubSpot, and other sources to identify trends, opportunities, and challenges.
+Develop and maintain dashboards and reports that provide actionable insights for marketing, sales, and leadership teams.
+Monitor key performance metrics (KPIs) and deliver regular reports with recommendations for improvement.
+
+3. Campaign & Customer Insights
+
+Collaborate with marketing and sales teams to analyze campaign performance and customer engagement.
+Identify patterns in customer behavior to refine targeting strategies and enhance customer journey experiences.
+Provide data-driven recommendations to optimize lead generation, conversion rates, and retention efforts.
+
+4. Data Quality & Governance
+
+Ensure data hygiene by regularly auditing and cleaning CRM databases.
+Implement data governance policies to maintain compliance with industry regulations and company standards.
+Train team members on best practices for data entry and management in CRM systems.
+
+5. System Integration & Innovation
+
+Support the integration of Salesforce and HubSpot with other tools and platforms used across the organization.
+Stay updated on new CRM features, trends, and technologies to identify opportunities for system improvements.
+Lead or assist in the implementation of new CRM-related projects or upgrades.
+
+Touchlight Benefits
+
+Bachelor’s degree in Data Science, Business Analytics, Marketing, or a related field.
+3+ years of experience in CRM management and data analysis, with expertise in Salesforce and HubSpot.
+Proficiency in data analysis tools such as Excel, SQL, or Python (preferred).
+Strong understanding of marketing automation, lead scoring, and sales funnel optimization.
+Experience with data visualization tools such as Tableau or Power BI is a plus.
+Excellent analytical and problem-solving skills, with a keen eye for detail.
+
+A Place for Everyone
+
+We believe diversity drives innovation and for that reason we strongly encourage those from all backgrounds to apply for roles at Touchlight. We are an equal opportunity employer and aim to build a workforce that is truly representative of the communities in which we operate and our customers.
+
+If you need reasonable adjustments at any point in the application or interview process, please speak with the HR team who will be happy to support you."
+"About the job
+Overview
+
+This is a remote Internship Opportunity
+
+Join Foot Locker's Supply Chain Modernization Journey
+
+We're transforming our supply chain to deliver exceptional customer experiences through strategic investments in new global distribution centers, advanced technology, and innovative fulfillment options. As a data-driven company, we're seeking a talented Supply Chain Analytics intern to help us optimize our operations and drive business growth.
+
+About The Role
+
+As a Supply Chain Analytics intern, you'll play a key role in analyzing complex data sets to inform business decisions, improve customer experiences, and drive operational excellence. You'll work closely with our cross-functional teams, including enterprise data, global supply chain, allocation, and store operations, to identify opportunities for improvement and develop data-driven solutions.
+
+Responsibilities
+
+Assist in building and maintaining global supply chain dashboards in Power BI, ensuring data accuracy and relevance
+Research and implement best UI/UX practices in Power BI dashboards, ensuring that data visualizations are intuitive, user-friendly, and meet the needs of various stakeholders
+Analyze key performance indicators (KPIs) and support root cause analysis of underperforming metrics, contributing to actionable insights
+Act as a resource for supply chain business data and assist in user-driven report customizations for various supply chain use cases
+Use SQL and Python to query and manipulate large datasets, and develop scripts to automate data processing
+Participate in project planning and execution, including data gathering, analysis, and presentation of findings
+Collaborate with cross-functional teams to drive data-driven business actions
+
+Qualifications
+
+ Pursuing or recently completed a graduate degree in a quantitative field such as Operations Research, Industrial Engineering, Statistics, or Supply Chain Management 
+ Strong analytical and problem-solving skills 
+ Experience with Power BI or other visualization tools like Tableau (nice to have) 
+ Proficiency in Microsoft Excel, with experience in creating reports and visualizations 
+ Proficiency in SQL and Python, with experience in data analysis and manipulation 
+ Pro-active and self-motivated approach to problem-solving, with a passion for customer experience 
+ Strong verbal and written communication skills 
+ Ability to present ideas and findings in a clear, concise format 
+ Ability to work independently and as part of a team, with a high level of attention to detail and ability to multitask 
+
+Benefits
+
+What You'll Gain
+
+ Practical experience in data analytics and customer experience improvement 
+ Opportunity to work with a team of experienced professionals in a dynamic and fast-paced environment 
+ Exposure to industry-leading tools and technologies 
+ Chance to contribute to the success of a leading retail company 
+ Development of analytical and problem-solving skills 
+
+We Offer
+
+ Competitive internship stipend 
+ Opportunities for professional growth and development 
+ Collaborative and dynamic work environment 
+ Access to industry-leading tools and technologies 
+ Casual dress environment 
+ Employee discount 
+ Remote role 
+
+To Apply
+
+Join our sports-inspired, engaging team by submitting your application and resume."
+"About the job
+Sales Data Analyst
+ Position is the focal point for the Sales organization in POS & shipment data reporting and analysis across Retail and Contract Sales. This person is responsible for the timely delivery and communication of quantitative analysis. Deliverables are a mixture of recurring and ad hoc weekly reports & analyses that rely on syndicated data, retailer databases and systems for data and information.The ability to work with external datasets (e.g. IRI/Circana, SPINS, retailer-specific databases) is an important aspect of this role. This person must possess strong computer & analytical skills, as well as the ability to communicate across functions and levels.This position reports directly to Senior Vice President Retail and Executive Vice President Contract.
+
+Essential Job Functions
+Create, distribute, and present daily, weekly, and monthly reports to various levels of management up to and including the C-suite and Board of Directors. Must have the ability to present and lead discussions on data analysis.
+Manages the category research function to include: IRI/Circana analysis, Industry articles and research dissemination and analysis. Develop reporting from data that can be shared across sales and other parts of the organization.
+Supports the evaluation of potential new business opportunities (e.g., cost estimates, volume potential assessment, etc.)
+Excellent organizational and time management skills, with attention to detail.
+Proficiency in Office 365, master excel user
+
+Work Experience Requirements
+3+ years’ experience with Nielsen/IRI and analytic functions
+3+ years’ experience in building sales forecast
+Advanced skill level with Excel, Powerpoint and Word
+Demonstrated ability to work cross-functionally and drive business results
+Demonstrated ability to deliver projects on time
+Ideally, experience in a manufacturing company, ideally OTC/Nutritional, CPG
+BA/BS required.Degree in business, economics, business related field (e.g. accounting), statistics or mathematics preferred."
+"About the job
+Initial one-year Junior Python Developer opportunity 
+
+Location: Flexible hybrid in Peoria, IL office (team works 3 days per week in the office)
+Duration: Initial one-year contract with high potential to extend/convert based on performance
+Pay Rate: $20-25/hr W2, open to C2C, Self-Corporation candidates
+Job #: 56028-1
+ Position’s Contributions to Work Group:
+Candidate will help develop Django Software applications to support end customers with automation, data collection, and increased efficiency.
+Candidate will work with the team to maintain infrastructure and codebase
+
+Why this Role?
+You will learn quite a bit, as the team has many ranges of experience.
+You want to be challenged with solving real world problems, and you want to see how your solutions effect a facility in real time.
+The team is very social and works together effectively to deal with many different challenges around the facility.
+
+Typical task breakdown:
+Meet with customers to create documentation with their needs.
+Weekly Devops review of tasks for that week.
+Creating Python and Django software applications.
+Collaborate with team to solve real world problems.
+
+ Interaction with team:
+Asking for help or background information
+Working with data scientists to get data solutions for projects
+
+ Work environment:
+Office Setting with individual desk locations.
+Office is adjacent to a factory.
+Occasional need to enter factory for projects and tours. PPE will be provided. 
+
+Education & Experience Required:
+2-3 of software or programming experience
+OR
+Bachelor’s in Computer Science or related degree, or program mostly complete
+
+Technical Skills:
+Django
+Python
+GIT
+Web Application Design
+
+Soft Skills:
+Open Communication
+Ability to work independently
+Good Time Management"
+"About the job
+Position Summary:
+Title: Developer Standard III - Python Developer
+Duration: 9 Months – Long Term
+Location: Washington, DC - 20433
+
+Hybrid Onsite: 4 Days onsite per week from Day1. 
+  The Python Developer will be responsible for the following tasks: 
+
+a. Requirement Analysis: 
+Review and understand the existing Excel-based calculations.
+Identify the key functionalities and logic implemented in the Excel sheets.
+Collaborate with stakeholders to gather additional requirements and clarify any ambiguities.
+
+b. Code Conversion: 
+Convert the Excel-based calculations to Python code, ensuring accuracy and consistency.
+Optimize the Python code for performance and scalability.
+Implement error handling and validation to ensure robustness.
+
+c. Documentation: 
+Document the existing Excel-based calculations, including formulas, macros, and data flows.
+Create comprehensive documentation for the Python code, including code comments, user guides, and technical specifications.
+Maintain an organized repository of all project documentation.
+
+d. Testing and Validation: 
+Develop and execute test cases to validate the accuracy and performance of the Python code.
+Compare the results of the Python code with the original Excel calculations to ensure consistency.
+Address any discrepancies and refine the code as needed.
+
+e. Optimization and Best Practices: 
+Identify and implement the most efficient methods for migrating calculations from Excel to Python.
+Follow best practices for coding, documentation, and version control.
+Provide recommendations for further improvements and optimizations.
+
+“Mindlance is an Equal Opportunity Employer and does not discriminate in employment on the basis of – Minority/Gender/Disability/Religion/LGBTQI/Age/Veterans.”"
+"About the job
+Python AWS Developer
+
+Location: Chicago, IL (Day1 Onsite)
+W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2W2 Only‍
+Contract
+Primary Skills:
+Programming Languages:
+
+• Proficiency in Python
+
+• Experience with tool development and integration using Python
+AWS:
+
+• Mandatory experience with AWS services and architecture
+
+• Familiarity with deploying and managing applications on AWS platforms
+
+GitHub Integration:
+
+• Experience integrating tools and applications with GitHub
+
+• Deep understanding of GitHub APIs and workflows
+Secondary Skills:
+
+Web Development:
+
+• Familiarity with web frameworks and development practices in Python
+
+• Knowledge of API development and RESTful services
+
+Testing and Debugging:
+
+• Strong debugging and troubleshooting skills
+
+• Experience with unit testing and test automation
+
+DevOps and Unix:
+
+• Exposure to DevOps practices and tools (Good to have)
+
+• Experience with Unix command line (Good to have)
+
+Roles and Responsibilities:
+
+• Develop and maintain tools and applications using Python
+
+• Integrate tools and applications with GitHub to enable seamless workflows
+
+• Write clean, efficient, and maintainable code
+
+• Debug and troubleshoot issues in the developed applications
+
+• Collaborate with cross-functional teams to deliver high-quality software solutions
+
+• Leverage AWS services to build and deploy scalable and secure applications"
+"About the job
+Responsibilities
+
+Kforce has a client that is seeking a Python Developer in Juno Beach, FL. As a Data Engineer, your primary duties and expectations will be:
+
+ Day-to-day troubleshooting of forecasting systems, mainly working through data anomalies that cause inaccurate forecasts or prevent forecasts' generation
+ Collaborate with the data science team to enhance existing forecasting systems for the trade floors
+ Create dynamic object-oriented methods, full stack solutions, and integrations to existing code solutions
+ Develop individual Python classes, methods, functions that support the data flow of existing and new projects
+ Work on code additions to seamlessly support projects for data flows, including logging and support, with little to no supervision
+
+Requirements
+
+ Advanced knowledge of Python including Object-Oriented Programming; CI/CD
+ Experience with GitHub
+ Familiarity with Python libraries like Pandas, Numpy, Python SQL Connectors, Flask, Django, and Python Decorators
+ Experience with parsing APIs and markup languages including XML and JSON
+ Proficiency with Multi-threading and Multi-processing in Python
+
+Significant experience with SQL, including:
+
+ Understanding of Database Normalization & Creation
+ Proficiency with PostGres and MySQL
+ Experience with any relational database flavor
+ Knowledge of Query Optimization
+
+Nice To Have
+
+ Experience with distributed systems
+ Knowledge of Apache Spark and Snowflake
+ Familiarity with cloud technologies, particularly AWS, Athena, and Docker
+
+The pay range is the lowest to highest compensation we reasonably in good faith believe we would pay at posting for this role. We may ultimately pay more or less than this range. Employee pay is based on factors like relevant education, qualifications, certifications, experience, skills, seniority, location, performance, union contract and business needs. This range may be modified in the future.
+
+We offer comprehensive benefits including medical/dental/vision insurance, HSA, FSA, 401(k), and life, disability & ADD insurance to eligible employees. Salaried personnel receive paid time off. Hourly employees are not eligible for paid time off unless required by law. Hourly employees on a Service Contract Act project are eligible for paid sick leave.
+
+Note: Pay is not considered compensation until it is earned, vested and determinable. The amount and availability of any compensation remains in Kforce's sole discretion unless and until paid and may be modified in its discretion consistent with the law.
+
+This job is not eligible for bonuses, incentives or commissions.
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+
+By clicking “Apply Today” you agree to receive calls, AI-generated calls, text messages or emails from Kforce and its affiliates, and service providers. Note that if you choose to communicate with Kforce via text messaging the frequency may vary, and message and data rates may apply. Carriers are not liable for delayed or undelivered messages. You will always have the right to cease communicating via text by using key words such as STOP."
+"About the job
+Required Skills: Python,SQL/NoSQL
+Job Description
+Design, develop, and maintain Python-based applications and systems.
+• Write efficient, reusable, and modular code to support various functionalities.
+• Integrate third-party APIs and work with databases (SQL/NoSQL).
+• Collaborate with teams to develop and implement scalable solutions.
+• Debug, optimize, and test applications for performance and reliability."
+"About the job
+Junior Data Engineer
+Contract w/ Potential for Hire
+Remote
+
+Brooksource is searching for Junior Data Engineer to join our Fortune 50 Health Insurance partner to support a high priority project for the migration and integration of a claims application. 
+
+The Junior Data Engineers in this role will join a fully Agile Scrum Team and will have dedicated team leads. This position is through Brooksource’s Elevate Program and will include additional technical training and professional development as part of the engagement.
+
+Position Purpose:
+Develop and operationalize data pipelines to make data available for consumption, including data ingestion, transformation, validation/quality, optimization, and orchestration.
+Engage with Lead Engineers and QA to enable continuous integration, testing, and deployment.
+Assist in the design and implementation of data management procedures around data staging, ingestion, preparation, provisioning, and destruction.
+Provide support to engineers and QA in the design, development, implementation, testing, documentation, and operation of large-scale, high-volume, high-performance data structures for data streaming and analytics.
+Design, develop, and maintain real-time processing applications and data pipelines.
+Ensure the quality of technical solutions as data moves across environments.
+Provide insights into the changing data environment, processing, storage, and utilization requirements, driving the team toward viable solutions.
+Develop, construct, test, and maintain architectures using advanced programming languages and tools.
+Identify ways to improve data reliability, efficiency, and quality, and deploy solutions; use data to discover tasks that can be automated.
+Perform other duties as assigned.
+Comply with all policies and standards.
+
+Education/Experience:
+Bachelor's degree in a quantitative or business field (e.g., statistics, mathematics, engineering, computer science).
+0-1 years of related experience or equivalent experience acquired through accomplishments of applicable knowledge, duties, scope, and skill reflective of the level of this position.
+Proficiency in Python
+Basic understanding of SQL and experience with relational databases.
+Understanding of building Data Pipelines.
+Familiarity with data streaming technologies such as Kafka and REST APIs.
+Knowledge of big data processing and data manipulation/mining.
+Experience working in a cloud infrastructure environment.
+Proficiency in programming languages such as Python and SQL.
+Understanding of Microsoft SQL Servers."
+"About the job
+Akkodis is seeking a Senior Data and Analytics Engineer for a full-time/permanent position with one of our direct clients which is based out in Kansas City, MO (100% Remote).
+
+Salary Range: $130-135K/annum + benefits (The salary may be negotiable based on experience, education, geographic location, and other factors.)
+
+Must have Skills:
+DBT, Snowflake, and SQL experience
+
+Qualifications
+Be a champion of data privacy and quality
+3 + years of experience in Snowflake with exposure to administration 2 + years of experience in DBT with advanced levels like using jinja templates and creating macros
+3+ years of experience in GitHub implementing CICD pipelines for data engineering
+3+ years of experience in Python or similar programming languages
+Experience with any reporting tool like Tableau
+Advanced proficiency in SQL and data modeling strategies
+Previous experience with ETL/ELT principles and data warehousing concepts
+Great team player with the ability to interact and communicate with all levels of management
+Excellent organizational, prioritization, and independent decision-making skills
+Communicate clearly using excellent written and verbal skills
+Continuous learning mindset
+
+Responsibilities
+As a Senior Analytics Engineer, you will model data and work closely with data architects, data analysts, data product managers, data scientists, and other analytics engineers to provide clean, accurate datasets for use by the team and business stakeholders
+You will spend your time transforming, testing, deploying, and documenting data
+You will be the bridge between the raw data our Data Integrations team lands in the data lake and our analytical and business stakeholders
+As the person most directly responsible for materializing critical data for end users, you will apply software engineering best practices, including version control and continuous integration to the analytics code base
+Job Responsibilities Assist the Data Analytics Manager in developing a highly scalable data warehouse and analytics platform that will assist with improved business outcomes
+Assist with defining and developing the enterprise data architecture and best practices around processes, standards, methodologies, and data modeling
+Collaborate with stakeholders to understand user needs and use cases to develop clear and compelling data models that support interactive and dynamic visualizations
+Use dbt and Snowflake to iteratively deliver usable data models that enable analyst workflows and reverse ETL processes
+Implement test-driven processes to ensure data accuracy
+Assist project management in developing requirements and delivery expectations
+When necessary, provide documentation and training to stakeholders to foster increased understanding and utilization of the delivered functionality
+Become a subject matter expert on core business rules and systems
+Perform other duties as assigned
+
+Equal Opportunity Employer/Veterans/Disabled
+
+Benefits offerings include but are not limited to:
+401(k) with match
+Medical insurance
+Paid Holidays Off
+To read our Candidate Privacy Information Statement, which explains how we will use your information, please visit https://www.akkodis.com/en/privacy-policy
+
+The Company will consider qualified applicants with arrest and conviction records."
+"About the job
+About the Company
+
+Forian provides a unique suite of SaaS solutions, data management capabilities, and proprietary data and analytics to optimize and measure operational, clinical, and financial performance for customers within the traditional and emerging life sciences, healthcare payer and provider segments.
+
+
+
+About the Role
+
+The Healthcare Data Engineer will be responsible for building, maintaining, and improving data pipelines. The ideal candidate has strong experience with data structures and algorithms. The data engineer will work closely with the VP of Data Engineering, the Product team and occasionally with the Sales team. Attention to detail, strong intuition, problem-solving, and a customer service mindset are needed.
+
+
+Responsibilities
+
+Building and maintaining data pipelines
+Monitoring data products, focusing on identifying data anomalies, and taking action to solve them
+Optimizing existing data processes
+Support data analysis and investigations, for both internal and external stakeholders
+Develop and maintain documentation of data processes and products
+
+ Qualifications
+
+Bachelor’s degree in Computer Science, Data Engineering, or a quantitative field
+Minimum three years of experience working with large and complex datasets
+Strong experience with SQL and Python
+Minimum two years of experience with cloud platforms (eg AWS, Azure, GCP)
+Excellent communication and interpersonal skills
+Effective problem-solving skills
+Strong CICD knowledge
+
+
+Preferred Skills
+
+Two or more years of experience working with healthcare data
+PySpark , Linux
+Experience with statistical inference
+Experience with Snowflake and Databricks
+The ability to teach and train others
+
+ Equal Opportunity Statement
+
+Forian Inc. is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees."
+"About the job
+As a Data Engineer, you will be part of a talented team of engineers responsible for the deployment and configuration of cloud resources to meet individual client business needs in AWS. Client engagements cover a wide variety of business requirements and require our engineers to adapt quickly and stay on top of recent cloud technology trends. Candidates should be able to identify and remediate issues within cloud-based systems, based on their knowledge of industry standards and best practices.
+
+Data Engineer Responsibilities
+
+Work with the team to evaluate business needs and priorities, liaise with key business partners and address team needs related to data systems and management
+Translate business requirements into technical specifications; establish and define details, definitions, and requirements of applications, components and enhancements
+Participate in project planning; identifying milestones, deliverables and resource requirements; tracks activities and task execution
+Generate design, development, test plans, detailed functional specifications documents, user interface design, and process flow charts for execution of programming
+Develop data pipelines / APIs using Python, SQL, potentially Spark and AWS, Azure or GCP Methods
+Use an analytical, data-driven approach to drive a deep understanding of fast changing business
+Build large-scale batch and real-time data pipelines with data processing frameworks in AWS, Azure or GCP cloud platform
+Moving data from on-prem to cloud and cloud data conversions
+
+Desired Skills & Experience
+
+Experience in data engineering with an emphasis on data analytics and reporting
+Exposure to the AWS Cloud Platform
+Experience in SQL, data transformations, and troubleshooting across at least one database Platform (Redshift, Amazon RDS, Cassandra, Snowflake, PostgreSQL, Databricks, etc.)
+Experience in the design and build of data extraction, transformation, and loading processes by writing custom data pipelines
+Experience in a scripting language such as Python
+Experience designing and building solutions utilizing various Cloud services such as EC2, S3, EMR, Kinesis, RDS, Redshift/Spectrum, Lambda, Glue, Athena, API gateway, etc
+
+Powered by JazzHR
+
+ZfdnRiqywa"
+"About the job
+My client West of Madison is looking for a Junior to Mid-level Data Warehouse Engineer with experience with AWS Services like (S3, Redshift, Glue) and ETL. This role is MOSTLY remote but there could be occasional onsite days for important meetings--especially in the beginning. It is a 3-6 month contract to hire. They DEFINITELY want to hire on ASAP. 
+  Must:
+o 2+ years of working experience with AWS Services such as S3, Redshift, Glue, IAM, EC2, AWS CLI
+o 2+ years of working experience with ETL, Data Modeling, and Data Architecture.
+o Expert-level skills in writing and optimizing SQL.
+o EXPERIENCE IN PYTHON
+- Familiar with ETL processes 
+-o Experience with Metadata drive pipeline
+ o Intermediate/Advanced knowledge of Linux
+o Experience in working with CI/CD tools such as Git, Bamboo, Jenkins
+o Knowledge of Data Security, Engineering and Operational Excellence using standard methodologies.
+o Knowledge of Infrastructure as code tools such as Terraform.
+o Experience in working with ETL tools such as IBM DataStage.
+o Experience with BI tools
+o Regional to WI - would be optimal but again open to remote
+ Duration: 3 to 6 months CTH
+ 
+Beacon Hill is an Equal Opportunity Employer that values the strength diversity brings to the workplace. Individuals with Disabilities and Protected Veterans are encouraged to apply.
+
+California residents: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.
+
+If you would like to complete our voluntary self-identification form, please click here or copy and paste the following link into an open window in your browser: https://jobs.beaconhillstaffing.com/eeoc/
+
+Completion of this form is voluntary and will not affect your opportunity for employment, or the terms or conditions of your employment. This form will be used for reporting purposes only and will be kept separate from all other records.
+
+Company Profile:
+
+Beacon Hill Technologies, a premier National Information Technology Staffing Group, provides world class technology talent across all industries utilizing a complete suite of staffing services. Beacon Hill Technologies' dedicated team of recruiting and staffing experts consistently delivers quality IT professionals to solve our customers' technical and business needs. 
+
+Beacon Hill Technologies covers a broad spectrum of IT positions, including Project Management and Business Analysis, Programming/Development, Database, Infrastructure, Quality Assurance, Production/Support and ERP roles.
+
+Learn more about Beacon Hill and our specialty divisions, Beacon Hill Associates, Beacon Hill Financial, Beacon Hill HR, Beacon Hill Legal, Beacon Hill Life Sciences and Beacon Hill Technologies by visiting www.bhsg.com.
+
+Benefits Information:
+
+Beacon Hill offers a robust benefit package including, but not limited to, medical, dental, vision, and federal and state leave programs as required by applicable agency regulations to those that meet eligibility. Upon successfully being hired, details will be provided related to our benefit offerings.
+
+
+
+We look forward to working with you.
+
+Beacon Hill. Employing the Future™"
+"The Average Salary of a Machine Learning Engineer is $161,869"
+
+"The Average Salary of a Data Scientist is $124,242"
+
+"The Average Salary of a Computer Vision is $127,504"
+
+"The Average Salary of a Data Analyst is $81,202"
+
+"The Average Salary of a Python Developer is $123,996"
+
+"The Average Salary of a Data Engineer is $125,554"
+
