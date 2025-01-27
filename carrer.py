@@ -6,7 +6,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 import requests
 
-# Career Path Functions
+
 def fetch_web_results(query, api_key, top_k=10):
     headers = {"Ocp-Apim-Subscription-Key": api_key}
     params = {"q": query, "count": top_k}
@@ -42,7 +42,6 @@ def generalize_career_path(career_steps, openai_api_key):
     response = llm.predict(prompt)
     return response
 
-# Skill Analyzer Functions
 def get_conversation_chain(vectorstore, top_k=5):
     llm = ChatOpenAI()
     memory = ConversationBufferMemory(memory_key='chat_history', return_messages=True)
@@ -68,11 +67,9 @@ def handle_userinput(user_question):
         else:
             st.write(f"**Bot:** {message.content}")
 
-# Main Application
 def main():
     st.set_page_config(page_title="Right Fit", page_icon=":books:")
 
-    # Sidebar for toggling features
     option = st.sidebar.selectbox(
         "Choose a feature:",
         ["Career Path Discovery", "Skill Analyzer"]
@@ -80,8 +77,8 @@ def main():
 
     if option == "Career Path Discovery":
         st.title("Career Path Discovery :chart_with_upwards_trend:")
-        bing_api_key = "371ba543da4a4e1daa6c2ee1ab32124f"  # Replace with your Bing API Key
-        openai_api_key = "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"  # Replace with your OpenAI API Key
+        bing_api_key = ""  # Replace with your Bing API Key
+        openai_api_key = ""  # Replace with your OpenAI API Key
 
         query = st.text_input("Enter a career or job role (e.g., Data Scientist):")
         if st.button("Generate Career Plan"):
@@ -124,7 +121,6 @@ def main():
                 except Exception as e:
                     st.error(f"Error loading data: {e}")
 
-        #st.subheader("Chat with Preprocessed PDFs")
         user_question = st.text_input("Ask a question about your documents:")
         if user_question:
             handle_userinput(user_question)
